@@ -1,0 +1,5 @@
+local Games = {
+[92814019058536] = "https://raw.githubusercontent.com/karlhub67/karlhubscript/refs/heads/main/karlhub", -- plant brainrot simulator
+}
+
+return Games
