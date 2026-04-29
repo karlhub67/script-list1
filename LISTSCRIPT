@@ -1,5 +1,6 @@
 local Games = {
 [92814019058536] = "https://raw.githubusercontent.com/karlhub67/karlhubscript/refs/heads/main/karlhub", -- plant brainrot simulator
+[110334393584385] = "https://raw.githubusercontent.com/karlhub67/afafafa/refs/heads/main/ilovenuggets", -- Roller for Brainrot
 }
 
 return Games
