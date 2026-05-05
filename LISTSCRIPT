@@ -3,7 +3,7 @@ local Games = {
 [110334393584385] = "https://raw.githubusercontent.com/karlhub67/afafafa/refs/heads/main/ilovenuggets", -- Roller for Brainrot
 [85177851006073] = "https://raw.githubusercontent.com/karlhub67/drill/refs/heads/main/Key", -- Drill for Brainrot
 [109908567838703] = "https://raw.githubusercontent.com/karlhub67/Nuke-brainrot/refs/heads/main/Key", -- Nuke Brainrot
-
+[84332574190497] = "https://raw.githubusercontent.com/karlhub67/Flyforbrainrot/refs/heads/main/Key" -- Wings for brainrot
 }
 
 return Games
