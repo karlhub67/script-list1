@@ -4,7 +4,7 @@ local Games = {
 [85177851006073] = "https://raw.githubusercontent.com/karlhub67/drill/refs/heads/main/Key", -- Drill for Brainrot
 [109908567838703] = "https://raw.githubusercontent.com/karlhub67/Nuke-brainrot/refs/heads/main/Key", -- Nuke Brainrot
 [84332574190497] = "https://raw.githubusercontent.com/karlhub67/Flyforbrainrot/refs/heads/main/Key", -- Wings for brainrot
-[88207898227053] = "https://raw.githubusercontent.com/karlhub67/Build-Bridge-for-Brainrot/refs/heads/main/game", -- Build bridge lol
+[88207898227053] = "https://raw.githubusercontent.com/karlhub67/Build-Bridge-for-Brainrot/refs/heads/main/game" -- Build bridge lol
 }
 
 return Games
