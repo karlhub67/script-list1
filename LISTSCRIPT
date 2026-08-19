@@ -6,7 +6,8 @@ local Games = {
 [84332574190497] = "https://raw.githubusercontent.com/karlhub67/Flyforbrainrot/refs/heads/main/Key", -- Wings for brainrot
 [88207898227053] = "https://raw.githubusercontent.com/karlhub67/Build-Bridge-for-Brainrot/refs/heads/main/key", -- Build bridge lol
 [92416421522960] = "https://raw.githubusercontent.com/karlhub67/Script/refs/heads/main/Slime-key", -- Slime Rng
-[104973076655377] = "https://raw.githubusercontent.com/karlhub67/Script/refs/heads/main/C-VS-P-Key" -- Capybara vs Plants
+[104973076655377] = "https://raw.githubusercontent.com/karlhub67/Script/refs/heads/main/C-VS-P-Key", -- Capybara vs Plants
+[114697347887839] = "https://raw.githubusercontent.com/karlhub67/Script/refs/heads/main/%2B1%20Speed%20Monkey%20ESCAPE%20KEY" --
 }
 
 return Games
